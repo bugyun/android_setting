@@ -1,0 +1,12 @@
+<application>
+  <component name="KeysManager">
+    <TeamManager />
+    <ApiKey>f63174b4d7d982f2b929a7e6d8b8884e</ApiKey>
+    <ApkFilePath>$USER_HOME$/Rockdale/LTAndroid/app/app-release.apk</ApkFilePath>
+    <MD5>c0cae6c53e96a4a2bfdc6f364520d48c</MD5>
+    <LANGUAGE>chinese</LANGUAGE>
+    <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
+    <FLAG>cancel</FLAG>
+    <SelectedModuleName>Androidutils</SelectedModuleName>
+  </component>
+</application>
