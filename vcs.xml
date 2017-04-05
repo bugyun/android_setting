@@ -12,6 +12,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads/coreCode" />
+    <option name="cloneParentDir" value="$USER_HOME$/Android_source" />
   </component>
 </application>
