@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="dsd" type="PLAIN_TEXT" />
+      <mapping ext="keystore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
