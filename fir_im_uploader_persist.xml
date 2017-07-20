@@ -5,7 +5,7 @@
     <ApkFilePath>$USER_HOME$/Downloads/code/任买app/bestbuy/app/build/outputs/apk/app-bestbuy-debug.apk</ApkFilePath>
     <MD5>fa13e1eb685451f139ef0c1c0656fa77</MD5>
     <LANGUAGE>chinese</LANGUAGE>
-    <UPLOAD_FLAG>yes</UPLOAD_FLAG>
+    <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
     <FLAG />
     <SelectedModuleName>app</SelectedModuleName>
   </component>
