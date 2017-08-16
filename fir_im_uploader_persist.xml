@@ -2,8 +2,8 @@
   <component name="KeysManager">
     <TeamManager />
     <ApiKey>887f2d44bb1189fc0249272cf228f4cd</ApiKey>
-    <ApkFilePath>$USER_HOME$/Downloads/code/任买app/bestbuy/app/build/outputs/apk/app-bestbuy-debug.apk</ApkFilePath>
-    <MD5>ed7038856743b7a994a25c988b028125</MD5>
+    <ApkFilePath>$USER_HOME$/Downloads/code/任买app/bestbuy/app/build/outputs/apk/app-debug.apk</ApkFilePath>
+    <MD5>ac69a10d0723a41ab0117f572a610519</MD5>
     <LANGUAGE>chinese</LANGUAGE>
     <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
     <FLAG />
