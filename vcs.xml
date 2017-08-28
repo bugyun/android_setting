@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/bugyun/DBCat" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.puhuitech.cn/finup-credit/lend/FinupCreditAndroid.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads/android/coreCode" />
+    <option name="cloneParentDir" value="$USER_HOME$/Downloads/android/code" />
   </component>
 </application>
