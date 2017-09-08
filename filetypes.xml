@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
+      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="dsd" type="PLAIN_TEXT" />
       <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
