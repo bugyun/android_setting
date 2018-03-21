@@ -1,12 +1,12 @@
 <application>
   <component name="KeysManager">
     <TeamManager />
-    <ApiKey>887f2d44bb1189fc0249272cf228f4cd</ApiKey>
+    <ApiKey>f63174b4d7d982f2b929a7e6d8b8884e</ApiKey>
     <ApkFilePath>$USER_HOME$/Downloads/code/任买app/bestbuy/app/app-release.apk</ApkFilePath>
-    <MD5>9643f74b79c50600b26a36246829d47e</MD5>
+    <MD5>9cc6ecdcb6305c25a9b75550bf55b951</MD5>
     <LANGUAGE>chinese</LANGUAGE>
     <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
     <FLAG />
-    <SelectedModuleName>permissions4m-annotation</SelectedModuleName>
+    <SelectedModuleName>app</SelectedModuleName>
   </component>
 </application>
