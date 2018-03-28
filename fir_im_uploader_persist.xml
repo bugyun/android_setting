@@ -2,11 +2,11 @@
   <component name="KeysManager">
     <TeamManager />
     <ApiKey>887f2d44bb1189fc0249272cf228f4cd</ApiKey>
-    <ApkFilePath>$USER_HOME$/Downloads/code/任买app/bestbuy/app/app-release.apk</ApkFilePath>
-    <MD5>9643f74b79c50600b26a36246829d47e</MD5>
+    <ApkFilePath>$USER_HOME$/Downloads/code/任买app/RTeamAndroid/app/build/outputs/apk/debug/app-debug.apk</ApkFilePath>
+    <MD5>37700436a17787f735b398a7df4c257b</MD5>
     <LANGUAGE>chinese</LANGUAGE>
     <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
     <FLAG />
-    <SelectedModuleName>app</SelectedModuleName>
+    <SelectedModuleName>permissions4m</SelectedModuleName>
   </component>
 </application>
