@@ -1,12 +1,6 @@
 <application>
   <component name="KeysManager">
     <TeamManager />
-    <ApiKey>887f2d44bb1189fc0249272cf228f4cd</ApiKey>
-    <ApkFilePath>$USER_HOME$/Downloads/code/任买app/RTeamAndroid/app/build/outputs/apk/debug/app-debug.apk</ApkFilePath>
-    <MD5>ff1ad19cdc5d9c832c18cc21713abe45</MD5>
-    <LANGUAGE>chinese</LANGUAGE>
     <UPLOAD_FLAG>cancel</UPLOAD_FLAG>
-    <FLAG />
-    <SelectedModuleName>code</SelectedModuleName>
   </component>
 </application>
