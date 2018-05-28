@@ -4,9 +4,7 @@
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="BaseApplication" type="JAVA" />
-      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
-      <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
