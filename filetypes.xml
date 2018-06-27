@@ -5,6 +5,7 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="BaseApplication" type="JAVA" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="Smali" />
     </extensionMap>
   </component>
 </application>
