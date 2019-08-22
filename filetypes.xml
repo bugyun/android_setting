@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="ignore" type="Git exclude file" />
-      <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="BaseApplication" type="JAVA" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="shape_rectangle_fffff2e5.xml" type="Native" />
@@ -11,6 +10,7 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="dex" type="Smali" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
