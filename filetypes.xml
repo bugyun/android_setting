@@ -4,6 +4,7 @@
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="ignore" type="Git exclude file" />
       <mapping pattern="BaseApplication" type="JAVA" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="shape_rectangle_fffff2e5.xml" type="Native" />
       <mapping pattern="BaseApp.java" type="PLAIN_TEXT" />
